@@ -82,6 +82,7 @@
 |-----|------|---------|
 | local_auth | 生物识别认证 | 数据存储在设备本地 KeyChain |
 | flutter_secure_storage | 安全存储加密密钥 | 数据加密存储在设备安全区域 |
+| shared_preferences | 应用配置存储 | 存储在应用私有目录，删除 App 后清除 |
 | sqflite | 本地数据库 | 数据存储在应用私有目录 |
 | share_plus | 内容分享 | 仅用于本地分享功能，不上传数据 |
 | fl_chart | 隐私评分图表 | 纯本地数据可视化 |
