@@ -2,7 +2,7 @@
 
 Privacy policy for the Secure Vault password manager application.
 
-Published at: https://lxyang6688.github.io/ai-secure-vault-privacy/
+Published at: https://lxyang6688.github.io/secure-vault-privacy/
 
 ## About
 
