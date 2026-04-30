@@ -1,3 +1,8 @@
+---
+layout: default
+title: 服务条款
+---
+
 # Secure Vault 服务条款
 
 **最后更新日期：2026年4月27日**
